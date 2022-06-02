@@ -32,3 +32,6 @@ In my first analysis *PyCitySchools* you can see that when the analysis included
 In my second analysis when I replaced (THS) ninth-grade math class with "NaNs", the new average passing math percentage decreased to %66.91. View the table below for evidence. 
 <img width="1069" alt="Screen Shot 2022-06-02 at 2 00 02 PM" src="https://user-images.githubusercontent.com/104043438/171728394-5a6c94db-e7d5-4e6a-8662-8de65c4f67e0.png">
 It can now be said that due to (THS) changing their ninth-grade math scores, the average score for students passing math increased but in reality, it should've decreased because those scores weren't an accurate representation of the students' true grades. 
+
+### Summary:
+After completing my analysis, Maria was right! Thomas High School did alter their ninth-grade overall math scores to attempt to persue a higher overall passing math average. I proved this dishonesty by first completing an analysis with their original scores and then repeating the same analysis without their scores. The evidence clearly shows a huge decrease in the schools' overall passing math grades which affected the entire summary of the schools in the area. The overall change in passing math grades for the ninth-grade class was a %26.360856 decrease. 
