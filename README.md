@@ -22,11 +22,13 @@ As you can see the overall passing percentage decreased to 64.9%, though it's a 
 
 ### How is the District Summary Affected:
 Now, after reviewing my previous explanation it's important to note that out of the 15 schools I used in my analysis, there are two subcategories: district and charter schools. Since Thomas High School (THS) is a charter school the overall district summary wasn't affected. As you can see from the table below, charter schools, however, experienced a 36% overall higher passing compared to the district schools.
+
 <img width="825" alt="Screen Shot 2022-06-02 at 1 42 38 PM" src="https://user-images.githubusercontent.com/104043438/171724971-efca5a0c-c19c-443f-bb76-cac6621ddf76.png">
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools: 
 In my first analysis *PyCitySchools* you can see that when the analysis included (THS) ninth-grade math students the school's average passing math percentage was %93.87. View the table below for evidence. 
 <img width="1071" alt="Screen Shot 2022-06-02 at 1 59 32 PM" src="https://user-images.githubusercontent.com/104043438/171728211-a4e0ce0e-467e-4625-8c83-3cfdb708cbb8.png">
+
 In my second analysis when I replaced (THS) ninth-grade math class with "NaNs", the new average passing math percentage decreased to %66.91. View the table below for evidence. 
 <img width="1069" alt="Screen Shot 2022-06-02 at 2 00 02 PM" src="https://user-images.githubusercontent.com/104043438/171728394-5a6c94db-e7d5-4e6a-8662-8de65c4f67e0.png">
 It can now be said that due to (THS) changing their ninth-grade math scores, the average score for students passing math increased but in reality, it should've decreased because those scores weren't an accurate representation of the students' true grades. 
