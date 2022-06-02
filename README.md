@@ -21,8 +21,7 @@ As you can see the overall passing percentage decreased to 64.9%, though it's a 
 ##### Of the 15 schools their was a total of 39,170 students divided by 461 ninth graders at THS = 0.1176921 * 100 = 1.1769211 (%1.18). Thus, the ninth-grade students attending Thomas High School only made up %1.18 of the total students used in my data findings. So, even though the district summary only experienced a %0.1 decrease in overall passing students, that is a big difference when you consider how little the ninth-grade class was compared to the overall population of students. 
 
 ### How is the District Summary Affected:
-No, after reveiwing my previous explanation it's important to note that out of the 15 schools I used in my analysis, their are two subcategories: district and charter schools. Since Thomas High School (THS) is a charter school the overall district summary wasn't affected. As you can see from the table below, charter schools, however, expeirenced a 36% overall higher passing compared to the district schools.
-
+Now, after reviewing my previous explanation it's important to note that out of the 15 schools I used in my analysis, there are two subcategories: district and charter schools. Since Thomas High School (THS) is a charter school the overall district summary wasn't affected. As you can see from the table below, charter schools, however, experienced a 36% overall higher passing compared to the district schools.
 <img width="825" alt="Screen Shot 2022-06-02 at 1 42 38 PM" src="https://user-images.githubusercontent.com/104043438/171724971-efca5a0c-c19c-443f-bb76-cac6621ddf76.png">
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools: 
